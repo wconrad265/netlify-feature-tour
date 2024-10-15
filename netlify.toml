@@ -1,6 +1,5 @@
 [build]
-publish = "/home/will/projects/netlify-feature-tour/dist"
+publish = "/dist"
 publishOrigin = "ui"
 commandOrigin = "ui"
 command = "npm run build"
-functions = "/home/will/projects/netlify-feature-tour/netlify/functions"
